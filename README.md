@@ -1,6 +1,8 @@
 # mend — one patch tool for every AI edit format
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![make.fun](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/layerport/hidden-spec-cli-01/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/layerport/hidden-spec-cli-01/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
 [![make.fun](https://img.shields.io/badge/make.fun-enter-0ea5e9)](https://make.fun)
 [![Node 22](https://img.shields.io/badge/node-22-339933)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
 
